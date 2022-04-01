@@ -1,0 +1,11 @@
+{
+  "database": {
+    "name": "",
+    "password": "",
+    "user": "root",
+    "type": "mysql",
+    "host": "",
+    "port": "3306",
+    "table_prefix": ""
+  }
+}
